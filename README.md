@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **kaan.solmazz@outlook.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AgtSJX0Ut5VecXcLvgavaoEPg9I?e=twV6WI](https://1drv.ms/b/s!AgtSJX0Ut5VecXcLvgavaoEPg9I?e=twV6WI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
