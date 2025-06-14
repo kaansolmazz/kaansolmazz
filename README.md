@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaan Solmaz</h1>
 <h3 align="center">A passionate software developer from Turkey**</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Python,HTML,.NET**
 
 - 📫 How to reach me **kaan.solmazz@outlook.com**
 
